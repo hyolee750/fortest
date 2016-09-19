@@ -5,3 +5,8 @@ now
 i'm testing something
 i want to push a projects to two git repositories
 come on
+
+this time i will test something about ssh
+i hate to input username and password again and again
+i give up
+
